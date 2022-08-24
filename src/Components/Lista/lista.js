@@ -9,7 +9,7 @@ const Lista = () => {
     const [listadoFormulario, setListadoFormulario] = useState([]);
 
     useEffect(() => {
-        axios.get("http://localhost:3000/api/participantes").then((res) => {
+        axios.get("https://aqueous-savannah-79860.herokuapp.com/api/participantes").then((res) => {
             setListadoFormulario(res.data.Formularios)
         })
     });

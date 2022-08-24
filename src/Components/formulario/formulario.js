@@ -31,7 +31,7 @@ const Formulario = () => {
         };
 
         axios
-            .post('http://localhost:3000/api/crearFormulario', datos)
+            .post('https://aqueous-savannah-79860.herokuapp.com/api/crearFormulario', datos)
             .then((res) => {
                 Swal.fire({
                     icon: "success",

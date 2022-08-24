@@ -1,7 +1,7 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Formulario from "./Components/formulario/formulario";
+import Formulario from "./Components/formulario/formulario.js";
 import Lista from "./Components/Lista/lista";
 
 function App() {
