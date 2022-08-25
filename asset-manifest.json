@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/formularioFront/static/css/main.6c9ebf4d.css",
-    "main.js": "/formularioFront/static/js/main.c1fd96df.js",
-    "static/media/fondo.jpg": "/formularioFront/static/media/fondo.8279375e3764d8443ff8.jpg",
-    "index.html": "/formularioFront/index.html",
-    "main.6c9ebf4d.css.map": "/formularioFront/static/css/main.6c9ebf4d.css.map",
-    "main.c1fd96df.js.map": "/formularioFront/static/js/main.c1fd96df.js.map"
+    "main.css": "/formularioFront.github.io/static/css/main.5444eeb4.css",
+    "main.js": "/formularioFront.github.io/static/js/main.c1fd96df.js",
+    "static/media/fondo.jpg": "/formularioFront.github.io/static/media/fondo.8279375e3764d8443ff8.jpg",
+    "index.html": "/formularioFront.github.io/index.html",
+    "main.5444eeb4.css.map": "/formularioFront.github.io/static/css/main.5444eeb4.css.map",
+    "main.c1fd96df.js.map": "/formularioFront.github.io/static/js/main.c1fd96df.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c9ebf4d.css",
+    "static/css/main.5444eeb4.css",
     "static/js/main.c1fd96df.js"
   ]
 }
